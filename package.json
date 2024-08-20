@@ -1,0 +1,21 @@
+{
+  "name": "pact-example",
+  "version": "1.0.0",
+  "description": "An example of how to configure Pact for contract testing, using the Chuck Norris API as an example.",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@pact-foundation/pact": "^12.1.0",
+    "axios": "^1.7.3",
+    "chai": "^5.1.1",
+    "chai-as-promised": "^8.0.0",
+    "dotenv": "^16.4.5",
+    "mocha": "^10.7.3"
+  }
+}
