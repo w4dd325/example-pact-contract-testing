@@ -11,8 +11,10 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "axios": "^1.7.3"
+  },
+  "devDependencies": {
     "@pact-foundation/pact": "^12.1.0",
-    "axios": "^1.7.3",
     "chai": "^5.1.1",
     "chai-as-promised": "^8.0.0",
     "dotenv": "^16.4.5",
